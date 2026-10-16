@@ -1,0 +1,6 @@
+{
+  "name": "Nhật Catch & Slay - Sinh Nhật Rực Rỡ 1000 Điểm",
+  "description": "Game hứng đồ vật hài hước độc quyền mừng sinh nhật Nhật: điều khiển chú heo hứng đồ chuẩn gu, né NYC và chuối 9cm để đạt 1000 điểm nhận bánh kem!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
